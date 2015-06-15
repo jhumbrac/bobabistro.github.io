@@ -1,9 +1,6 @@
 body{
-		background-color:#191970;
+	background-color:MidnightBlue;
 }
-h1{
-		color:#00CED1;
-}
-p{
-	color:white;
+h1, p {
+	color:Aquamarine;
 }
